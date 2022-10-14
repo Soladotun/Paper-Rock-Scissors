@@ -1,0 +1,15 @@
+/* Created by C. Soladotun */
+
+body {
+    margin:0;
+    background:#aaa;
+}
+.object {
+    position:absolute;
+    width:2em;
+    height:2em;
+    text-align:center;
+    line-height:1.6em;
+    border-radius:50%;
+    transform:translate3d(-50%, -50%, 0);
+}
